@@ -41,7 +41,7 @@
 
 # Sources:
 ### Borrowing Main Code From This Amazing Tutorial:
-[Main Source Code Github Link](https://github.com/codingforentrepreneurs/Django-Chart.js/tree/9deb1d489250aca706b9939ae0bad331d0709982)
+[Main Source Code Github Link](https://github.com/codingforentrepreneurs/Django-Chart.js)
 
 --------------------------
 ### Other:
@@ -110,10 +110,8 @@ ModuleNotFoundError: No module named 'None'
 ```
 
 ### Week 15:
-- Fixed no module error by doing
-```
-pip install djangorestframework
-```
+- **Fixed Major Error ```no module error``` by doing:```pip install djangorestframework``` **
+
 
 --------------------
 
