@@ -110,7 +110,7 @@ ModuleNotFoundError: No module named 'None'
 ```
 
 ### Week 15:
-- **Fixed Major Error ```no module error``` by doing:```pip install djangorestframework``` **
+- **Fixed MAJOR Error** ```no module error``` **by doing:**```pip install djangorestframework```
 
 
 --------------------
