@@ -110,8 +110,12 @@ ModuleNotFoundError: No module named 'None'
 ```
 
 ### Week 15:
+- Front end completed except for extra styling if time permits (Majority of front end from tutorial)
 - **Fixed MAJOR Error** ```no module error``` **by doing:**```pip install djangorestframework```
-
+- Ran into major errors with Heroku but after a lot of experimentation stack overflow posts found I needed to install Heroku CLI which allows me to deploy apps w/ CP
+- Found usable Data Set
+- Used tutorial and prior knowledge to create reading/writing python program
+- May use Eve to connect the python output and front end
 
 --------------------
 
