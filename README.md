@@ -113,7 +113,7 @@ ModuleNotFoundError: No module named 'None'
 - Front end completed except for extra styling if time permits (Majority of front end from tutorial)
 - #### **Fixed MAJOR Error** ```no module error``` **by doing:**```pip install djangorestframework```
 - Ran into major errors with Heroku but after a lot of experimentation stack overflow posts found I needed to install Heroku CLI which allows me to deploy apps w/ CP
--  After typing ```heroku local``` the error ``ModuleNotFoundError: No module named 'fcntl'```(in package gunicorn) came up. Has something to do with conflicting packages because I tested this suspension w/                 
+-  After typing ```heroku local``` the error ``` ``ModuleNotFoundError: No module named 'fcntl'```(in package gunicorn) came up. Has something to do with conflicting packages because I tested this suspension w/                 
  ```
 (datav) C:\Users\Ajosh.Antony20\DjangoDataViz\FrontEnd\src>pip install gunicorn
 Requirement already satisfied: gunicorn in c:\users\ajosh.antony20\appdata\local\continuum\anaconda3\lib\site-packages (19.8.1)
