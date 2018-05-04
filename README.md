@@ -113,7 +113,21 @@ ModuleNotFoundError: No module named 'None'
 - Front end completed except for extra styling if time permits (Majority of front end from tutorial)
 - #### **Fixed MAJOR Error** ```no module error``` **by doing:**```pip install djangorestframework```
 - Ran into major errors with Heroku but after a lot of experimentation stack overflow posts found I needed to install Heroku CLI which allows me to deploy apps w/ CP
-- Found usable Data Set
+-  After typing ```heroku local``` the error ``ModuleNotFoundError: No module named 'fcntl'```(in package gunicorn) came up. Has something to do with conflicting packages because I tested this suspension w/                 
+ ```
+(datav) C:\Users\Ajosh.Antony20\DjangoDataViz\FrontEnd\src>pip install gunicorn
+Requirement already satisfied: gunicorn in c:\users\ajosh.antony20\appdata\local\continuum\anaconda3\lib\site-packages (19.8.1)
+pandas 0.22.0 has requirement python-dateutil>=2, but you'll have python-dateutil 1.5 which is incompatible.
+matplotlib 2.2.2 has requirement python-dateutil>=2.1, but you'll have python-dateutil 1.5 which is incompatible.
+jupyter-client 5.2.3 has requirement python-dateutil>=2.1, but you'll have python-dateutil 1.5 which is incompatible.
+bokeh 0.12.14 has requirement python-dateutil>=2.1, but you'll have python-dateutil 1.5 which is incompatible.
+anaconda-client 1.6.14 has requirement python-dateutil>=2.6.1, but you'll have python-dateutil 1.5 which is incompatible.
+```
+
+
+
+Will try to make a new venv and uninstall conflicting packages and uninstall and reinstall gunicorn
+- - Found usable Data Set
 - Used tutorial and prior knowledge to create reading/writing python program
 - May use Eve to connect the python output and front end
 
