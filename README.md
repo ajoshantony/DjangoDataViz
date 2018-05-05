@@ -67,7 +67,7 @@
 - [Tensorflow Tutorial/Setup](https://www.tensorflow.org/get_started/get_started_for_beginners)
 
 --------------------------
-- #### Python Crash Course
+- [Heroku Django Deployment](https://simpleisbetterthancomplex.com/tutorial/2016/08/09/how-to-deploy-django-applications-on-heroku.html)
 --------------------------
 ### Break Progress:
 - I completed initial setup after major setbacks since I did not add /polls/ (the app) in the URL which wasted a lot of time
@@ -233,6 +233,7 @@ anaconda-client 1.6.14 has requirement python-dateutil>=2.6.1, but you'll have p
 
 
 Will try to make a new venv and uninstall conflicting packages and uninstall and reinstall gunicorn
+- Changing the venv's did not work had to uninstall other conflicting packages and add requirements.txt, Procfile, and runtime.txt. This is outlined in [this](https://simpleisbetterthancomplex.com/tutorial/2016/08/09/how-to-deploy-django-applications-on-heroku.html) useful tutorial. 
 - Found usable Data Set
 - Used tutorial and prior knowledge to create reading/writing python program
 - May use Eve to connect the python output and front end
