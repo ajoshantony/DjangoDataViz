@@ -67,7 +67,8 @@
 - [Tensorflow Tutorial/Setup](https://www.tensorflow.org/get_started/get_started_for_beginners)
 
 --------------------------
-
+-Python Crash Course
+--------------------------
 ### Break Progress:
 - I completed initial setup after major setbacks since I did not add /polls/ (the app) in the URL which wasted a lot of time
 - I have read through the steps provided by the Python Crash Course to see how to add user sign and enabling public access to the site using Heroku and multiple libraries which provides basic services but is free
@@ -127,7 +128,7 @@ anaconda-client 1.6.14 has requirement python-dateutil>=2.6.1, but you'll have p
 
 
 Will try to make a new venv and uninstall conflicting packages and uninstall and reinstall gunicorn
-- - Found usable Data Set
+- Found usable Data Set
 - Used tutorial and prior knowledge to create reading/writing python program
 - May use Eve to connect the python output and front end
 
