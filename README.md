@@ -67,7 +67,7 @@
 - [Tensorflow Tutorial/Setup](https://www.tensorflow.org/get_started/get_started_for_beginners)
 
 --------------------------
--Python Crash Course
+- ##### Python Crash Course
 --------------------------
 ### Break Progress:
 - I completed initial setup after major setbacks since I did not add /polls/ (the app) in the URL which wasted a lot of time
