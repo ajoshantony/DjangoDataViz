@@ -114,7 +114,7 @@ ModuleNotFoundError: No module named 'None'
 - #### **Fixed MAJOR Error** ```no module error``` **by doing:**```pip install djangorestframework```
 - Ran into major errors with Heroku but after a lot of experimentation stack overflow posts found I needed to install Heroku CLI which allows me to deploy apps w/ CP
 -  After typing ```heroku local``` the error ``` ``ModuleNotFoundError: No module named 'fcntl'```(in package gunicorn) came up. Has something to do with conflicting packages because I tested this suspicion w/                 
- ```
+ ```shell
 (datav) C:\Users\Ajosh.Antony20\DjangoDataViz\FrontEnd\src>pip install gunicorn
 Requirement already satisfied: gunicorn in c:\users\ajosh.antony20\appdata\local\continuum\anaconda3\lib\site-packages (19.8.1)
 pandas 0.22.0 has requirement python-dateutil>=2, but you'll have python-dateutil 1.5 which is incompatible.
