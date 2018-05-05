@@ -44,7 +44,7 @@
 [Main Source Code Github Link](https://github.com/codingforentrepreneurs/Django-Chart.js)
 
 --------------------------
-### Other:
+#### Other:
 --------------------------
 - [Django Project Tutorial pt.1](https://docs.djangoproject.com/en/2.0/intro/tutorial01/)
 
