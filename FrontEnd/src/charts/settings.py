@@ -30,7 +30,7 @@ DATABASES = {
         default=config('DATABASE_URL')
     )
 }
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['https://data-viz-ajosha.herokuapp.com']
 
 
 # Application definition
