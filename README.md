@@ -2,48 +2,10 @@
 # DjangoDataViz - Final Project P.4
 ####
 
-####
-
+*********************
 ## LIVE Link To Project: https://ajosh-django-dataviz.herokuapp.com/
+*********************
 
-####
-- What's your project?
-
-
-
-   ... My project is to use Django to create a database which will display and organize data.
-
-- What is your first major milestone?
-
-
-
-
-  ... My first major milestone is to set up the database.
-
-- What do you not know that you will need to learn?
-
-
-
-
-
-    ... I will need to learn how to change the settings for each of the components of a database.
-
-- In what ways is your project too ambitious?
-
-
-
-
-
-  ... It may be too ambitious since I want to display the data in too many ways.
-
-- In what ways is it possibly not ambitious enough?
-
-
-
-
-
-
-   ... I think it is ambitious enough.
 
 # Sources:
 ### Borrowing Main Code From This Amazing Tutorial:
