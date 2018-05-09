@@ -13,7 +13,7 @@
 
 --------------------------
 #### Other:
---------------------------
+-------------------------
 - [Django Project Tutorial pt.1](https://docs.djangoproject.com/en/2.0/intro/tutorial01/)
 
 --------------------------
@@ -201,7 +201,7 @@ anaconda-client 1.6.14 has requirement python-dateutil>=2.6.1, but you'll have p
 
 
 Will try to make a new venv and uninstall conflicting packages and uninstall and reinstall gunicorn
-- Changing the venv's did not work had to uninstall other conflicting packages and add requirements.txt, Procfile, and runtime.txt. This is outlined in [this](https://simpleisbetterthancomplex.com/tutorial/2016/08/09/how-to-deploy-django-applications-on-heroku.html) useful tutorial. 
+- Changing the venv's did not work had to uninstall other conflicting packages and add requirements.txt, Procfile, and runtime.txt. This is outlined in [this](https://simpleisbetterthancomplex.com/tutorial/2016/08/09/how-to-deploy-django-applications-on-heroku.html) useful tutorial.
 - Found usable Data Set
 - Used tutorial and prior knowledge to create reading/writing python program
 - May use Eve to connect the python output and front end
