@@ -30,7 +30,7 @@ DATABASES = {
         default=config('DATABASE_URL')
     )
 }
-ALLOWED_HOSTS = ['https://data-viz-ajosha.herokuapp.com']
+ALLOWED_HOSTS = ['https://ajosh-django-dataviz.herokuapp.com']
 
 
 # Application definition
@@ -131,4 +131,3 @@ STATICFILES_STORAGE = 'whitenoise.django.GzipManifestStaticFilesStorage'
 STATICFILES_DIRS = (
     os.path.join(PROJECT_ROOT, 'static'),
 )
-
