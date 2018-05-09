@@ -1,1 +1,1 @@
-web: gunicorn charts.wsgi 
+web: gunicorn charts.wsgi --pythonpath app --log-file - 
