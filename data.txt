@@ -1,5 +1,5 @@
 #Unit,Power
-data = ["Arkansas Nuclear 2",100
+"Arkansas Nuclear 2",100
 ,"Beaver Valley 1",0
 ,"Beaver Valley 2",100
 ,"Braidwood 1",8
