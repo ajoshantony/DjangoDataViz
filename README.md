@@ -37,8 +37,9 @@
 --------------------------
 - [Heroku Django Deployment](https://simpleisbetterthancomplex.com/tutorial/2016/08/09/how-to-deploy-django-applications-on-heroku.html)
 --------------------------
-- [Government DataSet](https://catalog.data.gov/dataset/us-nuclear-power-reactor-plant-status)
+- [Live Data Source](https://www.satori.com/docs/rtm-sdks/tutorials/python-sdk-quickstart)
 --------------------------
+
 ### Break Progress:
 - I completed initial setup after major setbacks since I did not add /polls/ (the app) in the URL which wasted a lot of time
 - I have read through the steps provided by the Python Crash Course to see how to add user sign and enabling public access to the site using Heroku and multiple libraries which provides basic services but is free
@@ -208,5 +209,6 @@ Will try to make a new venv and uninstall conflicting packages and uninstall and
 - Found usable Data Set
 - Used tutorial and prior knowledge to create reading/writing python program
 - May use Eve to connect the python output and front end
+- Attempting to use live data instead of static .txt file
 
 --------------------
