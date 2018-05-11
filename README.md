@@ -172,6 +172,7 @@ https://www.youtube.com/watch?v=B4Vmm3yZPgc
 - Switched to Atom (better text editor and has better built-in GitHub control because developed by GitHub)
 - I also used postman to perform automated tests on the local host 8000 port. (I am still trying to figure out what the many tests that I can perform)
 - Found a way to read .txt files using python : [Reading/Writing .txt files w/ python](http://www.pythonforbeginners.com/files/reading-and-writing-files-in-python)
+- Had to delete former repository and import to a new repositiry so a good chunk of commit messages were lost
 - Still trying to fix:
 ```
   return _bootstrap._gcd_import(name[level:], package, level)
