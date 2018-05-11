@@ -25,7 +25,7 @@ SECRET_KEY = 'y=c(8s0+^xa4%ak65n$hutr=n4hy4%*h+%34-*#p(9iou0+j(6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['https://ajosh-django-dataviz.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
@@ -119,4 +119,4 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/1.10/howto/static-files/
 
 STATIC_URL = '/static/'
-django_heroku.settings(locals())
+#django_heroku.settings(locals())
