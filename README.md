@@ -37,7 +37,7 @@
 --------------------------
 - [Heroku Django Deployment](https://simpleisbetterthancomplex.com/tutorial/2016/08/09/how-to-deploy-django-applications-on-heroku.html)
 --------------------------
-- [Governmnet DataSet](https://catalog.data.gov/dataset/us-nuclear-power-reactor-plant-status)
+- [Government DataSet](https://catalog.data.gov/dataset/us-nuclear-power-reactor-plant-status)
 --------------------------
 ### Break Progress:
 - I completed initial setup after major setbacks since I did not add /polls/ (the app) in the URL which wasted a lot of time
