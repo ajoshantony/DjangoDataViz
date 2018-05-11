@@ -1,0 +1,13 @@
+*.pyc
+.tox
+.coverage*
+__pycache__
+htmlcov
+venv*
+.test_appkey
+credentials*.json
+.cache
+.compiled
+build
+dist
+*.egg-info

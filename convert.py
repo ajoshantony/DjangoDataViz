@@ -7,3 +7,4 @@ print(data.readlines() )
 # 2,4,6,8,10,12 need to print power values only 
 
 
+# use classes , create module , make superclasses, add machine learning 
