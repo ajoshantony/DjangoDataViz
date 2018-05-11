@@ -13,8 +13,8 @@ import satori.rtm.auth as auth
 
 # Replace these values with your project's credentials
 # from Dev Portal (https://developer.satori.com/#/projects).
-endpoint = 'YOUR_ENDPOINT'
-appkey = 'YOUR_APPKEY'
+endpoint = 'wss://q31bxyzu.api.satori.com'
+appkey = '1667eE23EDaD710DF983bBfaA7d0D980'
 
 # Role and secret are optional: replace only if you need to authenticate.
 role = u'YOUR_ROLE'

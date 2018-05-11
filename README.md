@@ -39,7 +39,8 @@
 --------------------------
 - [Live Data Source](https://www.satori.com/docs/rtm-sdks/tutorials/python-sdk-quickstart)
 --------------------------
-
+- [Static Data Source (.txt)](https://catalog.data.gov/dataset/us-nuclear-power-reactor-plant-status)
+--------------------------
 ### Break Progress:
 - I completed initial setup after major setbacks since I did not add /polls/ (the app) in the URL which wasted a lot of time
 - I have read through the steps provided by the Python Crash Course to see how to add user sign and enabling public access to the site using Heroku and multiple libraries which provides basic services but is free
