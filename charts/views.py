@@ -17,7 +17,7 @@ class HomeView(View):
 
 def get_data(request, *args, **kwargs):
     data = {
-        "sales": 100,
+        "sales": 100, 
         "customers": 10,
     }
     return JsonResponse(data) # http response
