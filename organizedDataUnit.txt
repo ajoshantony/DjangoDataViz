@@ -1,0 +1,49 @@
+Arkansas Nuclear 1
+Arkansas Nuclear 2
+Beaver Valley 1
+Beaver Valley 2
+Braidwood 1
+Braidwood 2
+Browns Ferry 1
+Browns Ferry 2
+Browns Ferry 3
+Brunswick 1
+Brunswick 2
+Byron 1
+Byron 2
+Callaway
+Calvert Cliffs 1
+Calvert Cliffs 2
+Catawba 1
+Catawba 2
+Clinton
+Columbia Generating Station
+Comanche Peak 1
+Comanche Peak 2
+Cooper
+D.C. Cook 1
+D.C. Cook 2
+Davis-Besse
+Diablo Canyon 1
+Diablo Canyon 2
+Dresden 2
+Dresden 3
+Duane Arnold
+Farley 1
+Farley 2
+Fermi 2
+FitzPatrick
+Grand Gulf 1
+Harris 1
+Hatch 2
+Hope Creek 1
+Indian Point 2
+Indian Point 3
+LaSalle 1
+Oconee 1
+Oconee 2
+Oconee 3
+Quad Cities 1
+Quad Cities 2
+Susquehanna 2
+Watts Bar 2
