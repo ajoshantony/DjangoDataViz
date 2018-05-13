@@ -36,10 +36,16 @@
 
 --------------------------
 - [Heroku Django Deployment](https://simpleisbetterthancomplex.com/tutorial/2016/08/09/how-to-deploy-django-applications-on-heroku.html)
+
 --------------------------
 - [Live Data Source](https://www.satori.com/docs/rtm-sdks/tutorials/python-sdk-quickstart)
+
 --------------------------
 - [Static Data Source (.txt)](https://catalog.data.gov/dataset/us-nuclear-power-reactor-plant-status)
+
+--------------------------
+- [W3 Schools](https://www.w3schools.com/bootstrap4/default.asp)
+
 --------------------------
 ### Break Progress:
 - I completed initial setup after major setbacks since I did not add /polls/ (the app) in the URL which wasted a lot of time
