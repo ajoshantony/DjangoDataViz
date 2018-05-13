@@ -16,9 +16,9 @@ def main():
         print('Connected to Satori RTM!')
 
         class SubscriptionObserver(object):
-            def on_subscription_data(self, data):
+            def on_subscription_data(self, data):     # main class that has a for loop to print all data realtime
                 for message in data['messages']:
-                    print("Got message:", message)
+                    print(message)
 
         subscription_observer = SubscriptionObserver()
         client.subscribe(
