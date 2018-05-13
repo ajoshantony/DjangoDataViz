@@ -18,7 +18,7 @@ def main():
         class SubscriptionObserver(object):
             def on_subscription_data(self, data):     # main class that has a for loop to print all data realtime
                 for message in data['messages']:
-                    print(message)
+                    print("Data = ",message)
 
         subscription_observer = SubscriptionObserver()
         client.subscribe(
