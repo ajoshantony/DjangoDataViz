@@ -166,5 +166,4 @@ python-decouple==3.1
 python-language-server==0.18.0
 pytz==2018.3
 PyWavelets==0.5.2
-pywin32==222
-pywinpty==0.5.1
+
