@@ -218,7 +218,7 @@ Will try to make a new venv and uninstall conflicting packages and uninstall and
 - Finished Front End Setup
 - Added modules and data organization w/ inside convert.py organized data stored in organizedData.txt
 - Now I need to somehow input the organized data into the data variable inside templates/charts.html using eve which may work locally but not when it is published
-- I also need to add the corresponding label with each data point (the powerplant name) inside the label vairable labels in charts/views.py 
+- I also need to add the corresponding label with each data point (the powerplant name) inside the label variable labels in charts/views.py 
 
 
 
