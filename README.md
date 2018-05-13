@@ -226,6 +226,7 @@ Will try to make a new venv and uninstall conflicting packages and uninstall and
 - Now I need to somehow input the organized data into the data variable inside templates/charts.html using eve which may work locally but not when it is published
 - I also need to add the corresponding label with each data point (the powerplant name) inside the label variable labels in charts/views.py 
 - Using Satori I subscibed to the USGS live earthquake data feed and inputed the app key and other required variables to get the follwing live data:
+- Heroku link now works fixed problem adding ```import django-heroku``` in settings.py and doing a ```heroku run python manage.py migrate```
 ```shell
 C:\Users\Ajosh.Antony20\DjangoDataViz\Satori-live>python testing.py
 Connected to Satori RTM!
