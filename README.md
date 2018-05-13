@@ -2,9 +2,9 @@
 # DjangoDataViz - Final Project P.4
 ####
 
-*********************
+********************
 ## LIVE Link To Project: https://ajosh-django-dataviz.herokuapp.com/
-*********************
+********************
 
 
 # Sources:
