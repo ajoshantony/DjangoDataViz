@@ -5,7 +5,7 @@ from django.views.generic import View
 
 from rest_framework.views import APIView
 from rest_framework.response import Response
-
+from random import randint
 
 User = get_user_model()
 
@@ -21,6 +21,10 @@ def get_data(request, *args, **kwargs):
         "customers": 10,
     }
     return JsonResponse(data) # http response
+
+colorid = round(randint(100000,900000)) #get a random color using color id
+colorid = str(colorid)
+print("#" + colorid)
 
 
 class ChartData(APIView):
