@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-
+#code from Satori
 from __future__ import print_function
 
 import sys
