@@ -1,8 +1,7 @@
-def writeFile():
-    txt = open("organizedData.txt","w") 
-    txt.write("Hello World") 
-    txt.close() 
+'''
+Functions used for convert.py
 
+'''
 
 def readFile():
     i = 2
@@ -13,13 +12,16 @@ def readFile():
         if i == 98:
             break
 
-
 def readUnit():
-    txt = open("organizedDataUnit.txt", "r") 
+    txt = open("organizedDataUnit.txt", "r")   # reads txt file and prints all data as an array
     print(txt.readlines())
       
-
 def readPower():
-    txt = open("organizedDataPower.txt", "r") 
+    txt = open("organizedDataPower.txt", "r")  # same as above but the label data
     print(txt.readlines())
       
+def writePower():
+    txt = open("blank.txt","w") 
+    a = str(readPower())       # this function takes output from readPower() and puts into blank txt file for storage so I can convert to an int array
+    txt.write(a) 
+    txt.close() 
