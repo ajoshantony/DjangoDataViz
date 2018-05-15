@@ -7,9 +7,10 @@ from rest_framework.views import APIView
 from rest_framework.response import Response
 from random import randint
 
+
 User = get_user_model()
 
-class HomeView(View):
+class HomeView(View):                                       #view for actual graph
     def get(self, request, *args, **kwargs):
         return render(request, 'charts.html', {"customers": 10})
 
