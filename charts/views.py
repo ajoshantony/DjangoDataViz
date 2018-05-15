@@ -41,6 +41,7 @@ class ChartData(APIView):
         data = {   # using a dictionary for the data set 
                 "labels": labels,
                 "default": default_items,
+               
         }
         return Response(data)
 # changed power values of 0 to 1 for visibilty 
