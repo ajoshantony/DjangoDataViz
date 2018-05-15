@@ -2,8 +2,6 @@
 This File is for converting data into usable format
 
 '''
-
-
 from myFunctions import * #importing functions from myFunctions.py
 
 # testing write functionality
