@@ -47,6 +47,9 @@
 - [W3 Schools](https://www.w3schools.com/bootstrap4/default.asp)
 
 --------------------------
+-[StackOverFlow List](https://stackoverflow.com/questions/1894269/convert-string-representation-of-list-to-list)
+
+--------------------------
 ### Break Progress:
 - I completed initial setup after major setbacks since I did not add /polls/ (the app) in the URL which wasted a lot of time
 - I have read through the steps provided by the Python Crash Course to see how to add user sign and enabling public access to the site using Heroku and multiple libraries which provides basic services but is free
