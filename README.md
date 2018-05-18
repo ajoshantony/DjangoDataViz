@@ -47,7 +47,7 @@
 - [W3 Schools](https://www.w3schools.com/bootstrap4/default.asp)
 
 --------------------------
--[StackOverFlow List](https://stackoverflow.com/questions/1894269/convert-string-representation-of-list-to-list)
+- [StackOverFlow List](https://stackoverflow.com/questions/1894269/convert-string-representation-of-list-to-list)
 
 --------------------------
 ### Break Progress:
