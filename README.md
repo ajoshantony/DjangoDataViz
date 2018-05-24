@@ -9,7 +9,7 @@
 
 # Sources:
 ### Borrowing Main Code From This Tutorial:
-[Main Source Code Github Link](https://github.com/codingforentrepreneurs/Django-Chart.js)
+- [Main Source Code Github Link](https://github.com/codingforentrepreneurs/Django-Chart.js)
 
 --------------------------
 #### Other:
